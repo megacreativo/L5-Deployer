@@ -22,7 +22,7 @@ Laravel Deployer is a lightweight wrapper of [Deployer.org](https://github.com/d
 ## 1️⃣ Installation
 
 ```bash
-composer require lorisleiva/laravel-deployer
+composer require megacreativo/L5-Deployer
 ```
 
 ## 2️⃣ Configuration
