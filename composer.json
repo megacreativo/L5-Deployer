@@ -1,5 +1,5 @@
 {
-    "name": "megacreativo/L5-Deployer",
+    "name": "megacreativo/l5-deployer",
     "description": "Laravel Deployer is a lightweight wrapper of Deployer giving Artisan the power of zero-downtime deployment.",
     "type": "library",
     "license": "MIT",
